@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Neuton-Regular
+font link: https://fonts.google.com/specimen/Neuton
+font author: Brian Zick
+font author site: https://brianskywalker.deviantart.com/
+
+
+icon designer: Consumer Financial Protection Bureau
+icon designer link: /cfpb_minicons
+        
+{"bg":"transparent","icon-gradient-0":"#326D8A","icon-gradient-1":"#D468D7","font":"#000000","slogan":"#141414"}
+      
